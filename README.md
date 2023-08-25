@@ -1,10 +1,4 @@
-# DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better
 
-Code for this paper [DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better](https://arxiv.org/abs/1908.03826)
-
-Orest Kupyn, Tetiana Martyniuk, Junru Wu, Zhangyang Wang
-
-In ICCV 2019
 
 ## Overview
 
@@ -109,23 +103,5 @@ By default, the name of the pretrained model used by Predictor is 'best_fpn.h5'.
     </tr>
 </table>
 
-## Parent Repository
 
-The code was taken from <a href="">https://github.com/KupynOrest/RestoreGAN</a> . This repository contains flexible pipelines for different Image Restoration tasks.
-
-## Citation
-
-If you use this code for your research, please cite our paper.
-
-```
-​```
-@InProceedings{Kupyn_2019_ICCV,
-author = {Orest Kupyn and Tetiana Martyniuk and Junru Wu and Zhangyang Wang},
-title = {DeblurGAN-v2: Deblurring (Orders-of-Magnitude) Faster and Better},
-booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
-month = {Oct},
-year = {2019}
-}
-​```
-```
 
