@@ -15,8 +15,6 @@ The datasets for training can be downloaded via the links below:
 
 training script will load config under config/config.yaml
 
-#### Tensorboard visualization
-
 ![](./doc_images/tensorboard2.png)
 
 ## Testing
